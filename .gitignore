@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 
 amazon_baby.csv
+people_wiki.csv
